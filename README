@@ -1,5 +1,7 @@
 This is a plugin for palaver-voice-recognition
 
 It is a program to show the weather forecast using google.co.uk
+When you first use it, you may need to refine your location - the ip address may be inaccurate. 
+To do this, click on search tools-> <location name> (In my case, CB24) -> Type your location, -> click set. From now on, it should work.
 
 If you have any problems, please email me: timtjtim@gmail.com. My name is Tim Hitchins.
